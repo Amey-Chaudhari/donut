@@ -1,5 +1,5 @@
 ![\sum_{\forall i}{x_i^{2}}](https://latex.codecogs.com/svg.latex?%5Csum_%7B%5Cforall+i%7D%7Bx_i%5E%7B2%7D%7D)
-
+![sum](<img src="https://latex.codecogs.com/svg.image?\sum_{a}^{b}&space;a\;&space;\displaystyle&space;\lim_{\widehat{\binom{g}{h}}&space;\to&space;0}" title="\sum_{a}^{b} a\; \displaystyle \lim_{\widehat{\binom{g}{h}} \to 0}" />)
 ```
              k;double sin()
          ,cos();main(){float A= 
