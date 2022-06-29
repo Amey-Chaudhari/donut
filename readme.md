@@ -1,7 +1,8 @@
 ![\sum_{\forall i}{x_i^{2}}](https://latex.codecogs.com/svg.latex?%5Csum_%7B%5Cforall+i%7D%7Bx_i%5E%7B2%7D%7D) <br/>
 ![sum](https://latex.codecogs.com/svg.image?\sum_{a}^{b}&space;a\;&space;\displaystyle&space;\lim_{\widehat{\binom{g}{h}}&space;\to&space;0})
 ``` 
-
+             k;double sin()
+         ,cos();main(){float A= 
        0,B=0,i,j,z[1760];char b[
      1760];printf("\x1b[2J");for(;;
   ){memset(b,32,1760);memset(z,0,7040)
