@@ -23,4 +23,4 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 ```
-[link to website](https://www.a1k0n.net/2011/07/20/donut-math.html)
+[link to website cc:a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
